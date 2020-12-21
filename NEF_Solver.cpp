@@ -12,8 +12,7 @@ void NEF_Solver::set(string inp) {
 	
 	inp_reader.set(inp);
 	inp_reader.read(dom);
-	int a = 1;
-	a += 1;
+
 	
 }
 
